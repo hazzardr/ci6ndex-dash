@@ -6,6 +6,10 @@ const router = createBrowserRouter([
     path: '/',
     element: <HomePage />,
   },
+  {
+    path: '/test',
+
+  }
 ]);
 
 export function Router() {
